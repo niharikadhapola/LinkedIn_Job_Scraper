@@ -1,4 +1,7 @@
 # LinkedIn_Job_Scraper
+
+This program fetches job listings from LinkedIn and saved the extracted data to as csv file named linkedin.csv.
+
 ## Installation:
 ```
 #### clone the repo
